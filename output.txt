@@ -1,0 +1,7 @@
+
+ names 5SMW 3SMW TSW TGW TSL TGL 
+
+ Henna 0 0 0 15 3 18 
+ Rekha 0 1 5 31 1 24 
+ Jos 0 0 2 11 1 8 
+ Virat 0 0 2 17 4 24 
