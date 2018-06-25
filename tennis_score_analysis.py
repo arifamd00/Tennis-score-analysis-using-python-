@@ -1,5 +1,5 @@
-g =open("C:/Users/Hp Laptop/Desktop/scores.txt","r")
-w =open("C:/Users/Hp Laptop/Desktop/outpo.txt","w")
+g =open("C:/Users/Hp Laptop/Desktop/input.txt","r")
+w =open("C:/Users/Hp Laptop/Desktop/output.txt","w")
 series =[]
 c = []
 pn =[]
