@@ -83,7 +83,7 @@ for st in range(len(final)):
     if type(final[st]) != str:
         final[st] = str(final[st])
 final = ' '.join(final)
-print(final,end="")
+print("Now You can open output.txt file to see result")
 w.writelines(final)
 g.close()
 w.close()
